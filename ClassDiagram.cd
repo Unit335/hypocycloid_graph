@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CAboutDlg" Collapsed="true">
+    <Position X="2.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAABAAAAAAAAAAAAAAAAAAACAAAAA=</HashCode>
+      <FileName>MFCApplication1Dlg.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CHypocycloidFun" Collapsed="true">
+    <Position X="11.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAAAAAAAAAAAAAgAAAAAAIAAAAAYAA=</HashCode>
+      <FileName>GraphParameters.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CHypocycloidCalc" Collapsed="true">
+    <Position X="9.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAABAAAAAEgAAAMAACAgACAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GraphParameters.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMFCApplication1App" Collapsed="true">
+    <Position X="7.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAACAAQA=</HashCode>
+      <FileName>MFCApplication1.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMFCApplication1Dlg" Collapsed="true">
+    <Position X="0.5" Y="6.5" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="CMFCApplication1Dlg::__unnamed_enum_0006_1" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>MFCApplication1Dlg.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>EBGAABEAQiFAAAAIAJABCwAAoAAAAQwAAEwEUAAQEAA=</HashCode>
+      <FileName>MFCApplication1Dlg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMyGraph" Collapsed="true">
+    <Position X="5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AICAAAAAAAAAACAAAAAAQAABAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MyGraph.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CDialogEx" Collapsed="true">
+    <Position X="1.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABBAAACAAEAAAiAACCCBEBQAAAAAAEAIACCgQAAAAI=</HashCode>
+      <FileName>C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.25.28610\atlmfc\include\afxdialogex.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CDialog" Collapsed="true">
+    <Position X="1.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAGAyCkAQMCYAQgEDAIAgBSFACBDAUAgBAoQAAFABiA=</HashCode>
+      <FileName>C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.25.28610\atlmfc\include\afxwin.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CWnd" Collapsed="true">
+    <Position X="2.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>v977//bff7//b//96f/v/f/97/+e33f39uv7/d///78=</HashCode>
+      <FileName>C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.25.28610\atlmfc\include\afxwin.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CCmdTarget" Collapsed="true">
+    <Position X="6" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAQBRAgFAIUREFAwCNAoxmIAxQRSASAACwAAQDABAMA=</HashCode>
+      <FileName>C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.25.28610\atlmfc\include\afxwin.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CObject" Collapsed="true">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAQAQAAAAACAAAgQAAADAAAAAAEUAgAEAAAAA=</HashCode>
+      <FileName>C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.25.28610\atlmfc\include\afx.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CStatic" Collapsed="true">
+    <Position X="5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ARAAAAAAAAAAQAAAQEAAAAAAAIAACEAAIAESAAAAABA=</HashCode>
+      <FileName>C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.25.28610\atlmfc\include\afxwin.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CWinApp" Collapsed="true">
+    <Position X="7.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>57Zg4NJZMRYwEDOJuKSX1EtlESlJxcwkSSNipVAHtHc=</HashCode>
+      <FileName>C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.25.28610\atlmfc\include\afxwin.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CWinThread" Collapsed="true">
+    <Position X="9.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAkAAQwAICAIBhgQCAABkAABAAEAgQYAgAAAgAgJCAM=</HashCode>
+      <FileName>C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.25.28610\atlmfc\include\afxwin.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="GraphParameters">
+    <Position X="11.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAGAAAAAZAAAAAAIAAAAgAAAAAAAQAAAAAAACAAE=</HashCode>
+      <FileName>GraphParameters.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
